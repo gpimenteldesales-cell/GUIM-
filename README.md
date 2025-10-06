@@ -1,6 +1,6 @@
 # GUIMÊ
 <br> <br>
-Developer, Game Designer & Sound Maker.
+Game Developer, Game Designer & Sound Maker.
 <br> <br>
 # Sobre mim:
 <br> <br>
