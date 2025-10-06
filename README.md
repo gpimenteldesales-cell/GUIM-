@@ -1,5 +1,7 @@
 # GUIMÊ
 <br> <br>
+Programador, Game Designer, Art Designer e Sound Maker.
+<br> <br>
 # Sobre mim:
 <br> <br>
   Olá, meu nome é Guilherme Pimentel de Sales, sou programador de jogos, dono da empresa VOID SA. <br>
